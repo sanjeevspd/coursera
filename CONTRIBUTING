@@ -1,0 +1,32 @@
+# Contributing to [Your Project Name]
+
+Thank you for considering contributing to this project. Please take a moment to review the following guidelines.
+
+## Reporting Issues
+
+If you find a bug or have a suggestion, please [open an issue](https://github.com/your-username/your-repo/issues/new) to report it.
+
+## Suggesting Features
+
+If you have an idea for a feature, feel free to [open an issue](https://github.com/your-username/your-repo/issues/new) to discuss it.
+
+## Contributing Code
+
+If you want to contribute code, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Submit a pull request to this repository.
+
+## Code Style
+
+Please follow the code style and formatting guidelines in [CONTRIBUTING-CODE-STYLE.md](CONTRIBUTING-CODE-STYLE.md).
+
+## Contact
+
+If you have any questions or need further assistance, feel free to contact us at [your-email@example.com].
+
+Thank you for your contributions!
+
